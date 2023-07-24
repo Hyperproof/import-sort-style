@@ -1,0 +1,18 @@
+{
+  "exclude": ["node_modules"],
+  "compileOnSave": true,
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "jsx": "preserve",
+    "newLine": "LF",
+    "outDir": "dist",
+    "module": "commonjs",
+    "target": "es2017",
+    "diagnostics": true,
+    "allowJs": false,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": true
+  }
+}
